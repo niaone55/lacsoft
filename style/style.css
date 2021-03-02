@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+.vid1{
+    width: 80%;
+    height: 5px;
+    background-color: black;
+    margin-bottom: 30px;
+    
+
+}
+.sub{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background-color: coral;
+    border-radius: 10px;
+}
+.well{
+    margin-top: 90px;
+    font-size: auto;
+    
+}
+.mail{
+    border: 0px;
+    opacity: inherit;
+}
+.sign{
+    background-image: url(../image/sign_up.jpg);
+}
+.up{
+    margin-top: 600px;
+    margin-left: 140px; 
+    border-radius: 20px;
+
+    
+}

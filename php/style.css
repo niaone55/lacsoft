@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/* CSS Document */
+.vid1{
+    width: 80%;
+    height: 5px;
+    background-color: black;
+    margin-bottom: 30px;
+    
+
+}
+.valider{
+    background-color: rgb(243, 241, 241);
+    height: 650px;
+}
+.icone{
+    margin-left: 390px;
+}
+h1{
+  margin-left: 600px;  
+  position: relative;
+  bottom: 100px;
+  font-size: 5em;
+    
+}
+
+.sub{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background-color: coral;
+    border-radius: 10px;
+}
+.well{
+    margin-top: 90px;
+    font-size: auto;
+    margin-left: 100px;
+    
+}
+
+
+.mail{
+    border: 0px;
+    opacity: inherit;
+}
+.sign{
+    background-image: url(../images/image\ sign\ in.jpg);
+}
+.up{
+    margin-top: 600px;
+    margin-left: 140px; 
+    border-radius: 20px;
+}
+.suivant{
+    margin-left: 1200px;
+}
+
+/*.................................A PROPOS.HTML.......................*/
+
+.head{
+    background-color: rgb(214, 212, 212);
+    height: 150px;
+}
+
+
+.lacsoft{
+    padding: 1rem;
+    margin-left: 5rem;
+    text-align: justify;
+}
+
+
+/*-------------------------------------------liste.html-------------------------*/
+
+
+.liste{
+    background-color: rgb(214, 212, 212);
+    height: 150px;
+}
+
+
+::before, ::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.tableau-style{
+    border-collapse: collapse;
+    min-width: 1100px;
+    width: auto;
+    box-shadow: 0 5px 50px rgb(117, 117, 117);
+    cursor: pointer;
+    margin: 30px auto;
+   
+    
+}
+
+
+thead tr{
+    background-color: black;
+    color: #fff;
+    text-align: left;
+}
+
+
+th td{
+    padding: 15px 20px;
+}
+
+tbody tr, td, th{
+    border: 1px solid #ddd;
+}
+
+tbody tr:nth-child(even){
+    background-color: #f3f3f3;
+
+}
+
+
+
+
+
